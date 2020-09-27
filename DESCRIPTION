@@ -6,7 +6,8 @@ Authors@R:
            family = "Kirby",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
+Description: A set of tools to facilitate interactive (as opposed to 
+    programmatic) data analysis. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
